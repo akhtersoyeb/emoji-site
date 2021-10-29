@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Screenshot
+![unable to load picture](https://github.com/akhtersoyeb/emoji-site/blob/main/screenshot.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
